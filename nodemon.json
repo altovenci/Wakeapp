@@ -1,0 +1,5 @@
+{
+  "watch": ["server.js", "app.js", "routes", "controllers", "models", "config"],
+  "ext": "js,json",
+  "exec": "node --experimental-modules server.js"
+}
